@@ -1,11 +1,12 @@
 header{
     text-align: center;
 
-    font-style: italic;
+    font-style: bold;
     
 
 }
 
 body{
+    align-items: center;
     background-color: darkviolet;
 }
