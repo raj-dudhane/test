@@ -1,12 +1,12 @@
 header{
     text-align: center;
 
-    font-style:oblique;
+    font-style:inherit;
     
 
 }
 
 body{
     align-items: center;
-    background-color: darkviolet;
+    background-color:chartreuse;
 }
